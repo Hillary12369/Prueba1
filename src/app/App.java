@@ -39,7 +39,7 @@ public class App {
                 System.out.println("La división es: " + op.division(a, b));
                 break;
             default:
-                System.out.println("Ingrea una opcion del 1 a 5: "); 
+                System.out.println("Ingrea una opcion del 1 a 4: "); 
             }  
                  System.out.println("\n¿Desea regresar al Menu de Opciones?, Presione S para confirmar.\n");
                  teclado = new Scanner(System.in).nextLine();
