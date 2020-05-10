@@ -19,7 +19,7 @@ public class App {
         System.out.println("Ingrese opcion: ");
         int opcion; 
         opcion = sc.nextInt();
-      
+        System.out.println("Aqui ingresara los dos numeros a operar:")
         System.out.println("Ingresar n1:" );
         double a = sc.nextDouble();
         System.out.println("Ingresar n2:" );
